@@ -1,30 +1,30 @@
 # Site settings
-title: Fujishiro Otone
-SEOTitle: Otoneの世界
+title: linweidong96 Otone
+SEOTitle: 东的博客
 header-img: img/index.jpg
-email: kurumi.zsy@gmail.com
+email: linweidong96@163.com
 description: "青春如遊戲，只是不能再讀檔"
 keyword: "Otone, Otone Blog, 前端, 动漫, 游戏"
-url: "http://FujishiroOtone.github.io"          # your host, for absolute URL
+url: "linweidong96.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/FujishiroOtone/FujishiroOtone.github.io" # you code repository
-home_repo: "http://fujishiro.cn"
+github_repo: "https://github.com/linweidong96/linweidong96.github.io" # you code repository
+home_repo: "http://linweidong96.cn"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "大切な人といつかまた巡り会えますように"
+sidebar-about-description: "学习"
 sidebar-avatar: /img/about-Otone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     _Otone
+weibo_username:     
 #zhihu_username:     
-github_username:    FujishiroOtone
+github_username:    
 #facebook_username: 
-jianshu_username:  3bf62aac1afc
-twitter_username:   osuHatsuneMiku
+jianshu_username:  
+twitter_username:   
 
 
 
@@ -65,9 +65,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 1628acd4584b56ed9b40                            #生成的clientID
   clientSecret: 16b70af1ac573e1609bb84a604b4504a18cf7bcd    #生成的clientSecret
-  repo: FujishiroOtone.github.io    #仓库名称
-  owner: FujishiroOtone    #github用户名
-  admin: FujishiroOtone
+  repo: linweidong96.github.io    #仓库名称
+  owner: linweidong96    #github用户名
+  admin: linweidong96
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,8 +78,8 @@ gitalk:
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-124497414-1'            # Format: UA-xxxxxx-xx
-ga_domain: blog.fujishiro.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: #'UA-124497414-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -100,8 +100,8 @@ service-worker: true
 # links
 links: [
     {
-        title: "个人のGitHub",
-        href: "https://github.com/FujishiroOtone	"
+        title: "个人GitHub",
+        href: "https://github.com/linweidong96	"
     },{
         title: "简书·Otone",
         href: "https://www.jianshu.com/u/3bf62aac1afc"
@@ -109,7 +109,7 @@ links: [
         title: "Twitter",
         href: "https://twitter.com/osuHatsuneMiku"
     },{
-        title: "个人のbilibili",
+        title: "个人bilibili",
         href: "https://space.bilibili.com/1880573/#/"
     },{
         title: "asdfv1929",
