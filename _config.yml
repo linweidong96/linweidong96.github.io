@@ -4,7 +4,7 @@ SEOTitle: 东的博客
 header-img: img/index.jpg
 email: linweidong96@163.com
 description: "青春如遊戲，只是不能再讀檔"
-keyword: "Otone, Otone Blog, 前端, 动漫, 游戏"
+keyword: "Blog, 前端, 动漫, 游戏"
 url: "linweidong96.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/linweidong96/linweidong96.github.io" # you code repository
